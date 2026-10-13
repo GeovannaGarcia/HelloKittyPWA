@@ -1,0 +1,24 @@
+{
+  "name": "Hello Kitty • Mi diario cute",
+  "short_name": "Kitty Cute",
+  "description": "Notitas y sorpresas que funcionan sin conexión",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff9fc",
+  "theme_color": "#ff78ad",
+  "icons": [
+    {
+      "src": "icons/kitty-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/kitty-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
